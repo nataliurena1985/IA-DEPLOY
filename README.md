@@ -4,7 +4,7 @@
 
 ![](https://res.cloudinary.com/dv6nijgvd/image/upload/v1685584987/ecomerce/Cremas_pwicxc.png)
 
-[LinkecomerceHelados](https://comision-432401.vercel.app/)
+[Link](https://ia-deploy-flt7hpvwdz4orah3mipuqr.streamlit.app/)
 
 #### para clonar el proyecto ejecutar el siguiente codigoi
 
